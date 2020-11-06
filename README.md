@@ -31,5 +31,6 @@
 - Chapter HMM模型(28 Pages)；
 - Chapter 卡尔曼滤波基础(22 Pages)；
 - Chapter 线性链条件随机场(67 Pages)；
+- Chapter k均值聚类(39 Pages)；
 
 <a href="https://github.com/duxiaoqin/VGAE">Reimplementation of paper "Variational Graph Auto-Encoders"</a>
