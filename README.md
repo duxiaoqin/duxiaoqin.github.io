@@ -10,7 +10,7 @@
 - Chapter 遗传算法基础(16 Pages)；
 - Chapter 命题逻辑与一阶逻辑基础(53 Pages)；
 - Chapter 规划基础(30 Pages)；
-- Chapter 强化学习基础(37 Pages)；
+- Chapter 强化学习基础(40 Pages)；
 - Chapter 人工神经网络基础(37 Pages)；
 - 游戏与人工智能(PPT 94 Pages)；
 
